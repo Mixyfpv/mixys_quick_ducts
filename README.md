@@ -1,6 +1,6 @@
 # Mixy's Quick Ducts
 ## What this is
-These are 5 inches ducts designed to fit most -if not all- 5 inch FPV drones.
+Mixy's Quick Ducts are 5 inches ducts designed to fit most - if not all - 5 inch FPV drones currently in production today.
 ![Alt text](pics_and_renders/duct5in_1.JPG?raw=true "Title")
 
 These ducts were designed with one goal in mind, to be easy to use, and to be faster to put on and off your drone than currently available commercial solutions.
