@@ -28,7 +28,6 @@ The arm mounts must be printed out of TPU.
 - Secure to your heart content. If properly secured you should be able to lift your drone by the duct with minimal vibrations.
 
 ## How it works
-
 [Exploded view with TBS Source One v4]
 
 The best way to fix something like these ducts to your standard frame was to use the same nut and bolt size (M5) as 5 inches props we are used to.
@@ -43,18 +42,37 @@ All you need is an arm mount that will keep the nut centered on the prop axis an
 
 The M5 bolt length should be around 15mm. Too long and it will push agaisnt the carbone frame and won't properly secure the flat area of the duct. Too short and it won't catch in the nut and won't secure the duct to the frame.
 
+Two "teeth" are used on side of the duct to make sure the duct does not rotate around the bolt by being installed around the arm of the drone.
+[Pic of the teeth around the drone arm]
+
+On this same side, a divot as been made to the exterior of the duct to make it possible to rest agasint various frame top plates. For example, whilst the TBS Source One v4 provides enough space for it not to be needed, the Nazgul5 XL4 frame will need this space.
+[Pic of the space i'm talking about here]
+
 Lastly, for ease of use you can print a bolt holder (see "accessories") that will sit between the flat part of the duct and the underside of the arm mount. By driving the M5 bolt though this while it is in its definitive position, the bolt threads will catch and make the bolt secure to the duct, all the while it will be able to be released easily from the arm mount nut.
 
 [exploded view of the bolt holder]
 
 ## What you need to use
+1XM5 nut
+1XM5 bolt ~15mm
 
-
-
+And that's it.
 
 ## What it works with
+Tested with these frames :
+- Iflight Nazgul5 XL4
+- Team Mistral AK47
+- Team Mistral Dragunov
+- TBS SOurce One V4/HD
 
 ## What this can become
+This could become a great way for people that don't have the available resources to buy mutliple drones (like a dedicated cinewhoop) to be able to use their own drone and these 3D printable parts to fly around fragile things.
+
+If you can't afford 350 bucks worth of drone to fly around people, use this and you'll be able to do it with whatever drone your currently flying.
+
+Other dimensions will be added in the near future. And modify it however you want ! We want to see it grow.
+
+Plus we should be able to add and swap parts on a drone in seconds instead of minutes. That is the final goal we want for this community.... The current record of putting the ducts on a drone is around 10 seconds per prop. Let's be even faster.
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 license, specifically CC BY 4.0.
