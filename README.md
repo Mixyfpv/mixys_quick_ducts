@@ -43,7 +43,7 @@ All you need is an arm mount that will keep the nut centered on the prop axis an
 
 The M5 bolt length should be around 15mm. Too long and it will push agaisnt the carbone frame and won't properly secure the flat area of the duct. Too short and it won't catch in the nut and won't secure the duct to the frame.
 
-Two "teeth" are used on the arm side of the duct to make sure the duct does not rotate around the bolt. Both the teeth are postionned around the arm of the drone and restrict the rotation..
+Two "teeth" are used on the arm side of the duct to make sure the duct does not rotate around the bolt. Both the teeth are postionned around the arm of the drone and restrict the rotation.
 
 [Pic of the teeth around the drone arm]
 
