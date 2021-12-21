@@ -53,9 +53,9 @@ Lastly, for ease of use you can print a bolt holder (see "accessories") that wil
 [exploded view of the bolt holder]
 
 ## What you need to use
-**1XM5 nut**
+- **1XM5 nut**
 
-**1XM5 bolt ~15mm**
+- **1XM5 bolt ~15mm**
 
 And that's it.
 
