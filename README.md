@@ -10,7 +10,22 @@ The ducts sit around the propeller disc. Their inside diameter is 5 inches.
 It is expected that the duct will grind a bit of the props and its inside once you started the motors for the simple reason that the prop manufacturers tolerance to prop diameter varies. A lot. Around +- 1 mm. That is why you should not expect the prop to be perfectly flush against the inside of the duct.
 3D printing imperfectiosn might also impact this.
 
-The curve of the duct wall is an Epler 423 foil which appear to be very suited for this use.
+The curve of the duct wall is an Eppler 423 airfoil which appear to be very suited for this use :
+http://airfoiltools.com/airfoil/details?airfoil=e423-il
+
+This ducts can be 3D printed. It has been tested with PLA+, regular PLA and PETG.
+The arm mounts must be printed out of TPU.
+
+## How to install
+[Installation video]
+
+- Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
+- Push the duct around the prop through the gap between the duct arms and let one of the prop blades rest in the two "teeth". Make sure to angle these "teeth" toward the inde of the arm a it is where the arm will rest once fixed.
+[Pic of this portion of the mount]
+- Make sure the arms of the duct go around the front of the arm mount and the center top of the duct mount rest against the bottom of your arm mount.
+- Center the M5 bolt to the center hole of the arm mount.
+- Once the M5 bolt catches in the nut, make sure again that the teeth on the bottom side of the duct are going around the arm of the drone.
+- Secure to your heart content. If properly secured you should be able to lift your drone by the duct with minimal vibrations.
 
 ## How it works
 
@@ -33,6 +48,7 @@ Lastly, for ease of use you can print a bolt holder (see "accessories") that wil
 [exploded view of the bolt holder]
 
 ## What you need to use
+
 
 
 
