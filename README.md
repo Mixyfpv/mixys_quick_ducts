@@ -43,7 +43,7 @@ All you need is an arm mount that will keep the nut centered on the prop axis an
 
 The M5 bolt length should be around 15mm. Too long and it will push agaisnt the carbone frame and won't properly secure the flat area of the duct. Too short and it won't catch in the nut and won't secure the duct to the frame.
 
-Two "teeth" are used on side of the duct to make sure the duct does not rotate around the bolt by being installed around the arm of the drone.
+Two "teeth" are used on the arm side of the duct to make sure the duct does not rotate around the bolt. Both the teeth are postionned around the arm of the drone and restrict the rotation..
 [Pic of the teeth around the drone arm]
 
 On this same side, a divot as been made to the exterior of the duct to make it possible to rest agasint various frame top plates. For example, whilst the TBS Source One v4 provides enough space for it not to be needed, the Nazgul5 XL4 frame will need this space.
@@ -66,7 +66,7 @@ Tested with these frames :
 - Iflight Nazgul5 XL4
 - Team Mistral AK47
 - Team Mistral Dragunov
-- TBS SOurce One V4/HD
+- TBS Source One V4/HD
 
 ## What this can become
 This could become a great way for people that don't have the available resources to buy mutliple drones (like a dedicated cinewhoop) to be able to use their own drone and these 3D printable parts to fly around fragile things.
