@@ -57,6 +57,8 @@ Lastly, for ease of use you can print a bolt holder (see "accessories") that wil
 
 - **1XM5 bolt ~15mm**
 
+- (OPTIONNAL) print the bolt holder and make sure it fits in the inside face of the duct mount.
+
 And that's it.
 
 ## What it works with
