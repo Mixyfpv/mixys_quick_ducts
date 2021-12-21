@@ -20,6 +20,7 @@ The arm mounts must be printed out of TPU.
 [Installation video]
 
 - Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
+- (OPTIONNAL) Put bolt holder in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
 - Push the duct around the prop through the gap between the duct arms and let one of the prop blades rest in the two "teeth". Make sure to angle these "teeth" toward the inde of the arm a it is where the arm will rest once fixed.
 [Pic of this portion of the mount]
 - Make sure the arms of the duct go around the front of the arm mount and the center top of the duct mount rest against the bottom of your arm mount.
@@ -49,7 +50,6 @@ On this same side, a divot as been made to the exterior of the duct to make it p
 [Pic of the space i'm talking about here]
 
 Lastly, for ease of use you can print a bolt holder (see "accessories") that will sit between the flat part of the duct and the underside of the arm mount. By driving the M5 bolt though this while it is in its definitive position, the bolt threads will catch and make the bolt secure to the duct, all the while it will be able to be released easily from the arm mount nut.
-
 [exploded view of the bolt holder]
 
 ## What you need to use
