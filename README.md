@@ -17,11 +17,19 @@ http://airfoiltools.com/airfoil/details?airfoil=e423-il
 This ducts can be 3D printed. It has been tested with PLA+, regular PLA and PETG.
 The arm mounts must be printed out of TPU.
 
+## Some pics and renders
+
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_1.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_2.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_3.JPG" height="300">
+
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v3.JPG" height="300">
+
+
+
 ## How to install
 [Installation video]
 
 - Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
-- (OPTIONNAL) Put bolt holder in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
+- (OPTIONNAL) Put the screw catcher in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
 - Push the duct around the prop through the gap between the duct arms and let one of the prop blades rest in the two "teeth". Make sure to angle these "teeth" toward the inde of the arm a it is where the arm will rest once fixed.
 
 <img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_teeth.JPG" height="300">
@@ -56,7 +64,7 @@ On this same side, a divot as been made to the exterior of the duct to make it p
 
 <img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/side_divot.JPG" height="300">
 
-Lastly, for ease of use you can print a bolt holder (see "accessories") that will sit between the flat part of the duct and the underside of the arm mount. By driving the M5 bolt though this while it is in its definitive position, the bolt threads will catch and make the bolt secure to the duct, all the while it will be able to be released easily from the arm mount nut.
+Lastly, for ease of use you can print a screw catcher (see "accessories") that will sit between the flat part of the duct and the underside of the arm mount. By driving the M5 bolt though this while it is in its definitive position, the bolt threads will catch and make the bolt secure to the duct, all the while it will be able to be released easily from the arm mount nut.
 
 <img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/screw_catcher_pic1.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/screw_catcher_pic2.JPG" height="300">
 
@@ -67,7 +75,7 @@ Lastly, for ease of use you can print a bolt holder (see "accessories") that wil
 |Hexagonal nut|M5 (4mm thick)|1|
 |Hexagonal bolt|M5x10mm|1|
 
-- (OPTIONNAL) print the bolt holder and make sure it fits in the inside face of the duct mount.
+- (OPTIONNAL) print the screw catcher and make sure it fits in the inside face of the duct mount.
 
 And that's it.
 
@@ -88,6 +96,8 @@ Other dimensions will be added in the near future. And modify it however you wan
 Plus we should be able to add and swap parts on a drone in seconds instead of minutes. That is the final goal we want for this community.... The current record of putting the ducts on a drone is around 10 seconds per prop. Let's be even faster.
 
 ## License
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" height="50"> 
+
 This work is licensed under a Creative Commons Attribution 4.0 license, specifically CC BY 4.0.
 
 https://creativecommons.org/licenses/by/4.0/
