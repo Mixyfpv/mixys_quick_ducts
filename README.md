@@ -23,7 +23,9 @@ The arm mounts must be printed out of TPU.
 - Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
 - (OPTIONNAL) Put bolt holder in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
 - Push the duct around the prop through the gap between the duct arms and let one of the prop blades rest in the two "teeth". Make sure to angle these "teeth" toward the inde of the arm a it is where the arm will rest once fixed.
-<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_teeth.JPG" height="600">
+
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_teeth.JPG" height="300">
+
 - Make sure the arms of the duct go around the front of the arm mount and the center top of the duct mount rest against the bottom of your arm mount.
 - Center the M5 bolt to the center hole of the arm mount.
 - Once the M5 bolt catches in the nut, make sure again that the teeth on the bottom side of the duct are going around the arm of the drone.
@@ -40,21 +42,23 @@ As you can see in the "arm_mount" directory, a few mounts are available.
 
 All you need is an arm mount that will keep the nut centered on the prop axis and against the carbone frame.
 
-[Exploded view of the arm mount and nut]
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_mount_nut.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_mount_nut_split.JPG" height="300">
+
 
 The M5 bolt length should be around 15mm. Too long and it will push agaisnt the carbone frame and won't properly secure the flat area of the duct. Too short and it won't catch in the nut and won't secure the duct to the frame.
 
 Two "teeth" are used on the arm side of the duct to make sure the duct does not rotate around the bolt. Both the teeth are postionned around the arm of the drone and restrict the rotation.
 
-[Pic of the teeth around the drone arm]
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_teeth.JPG" height="300">
 
 On this same side, a divot as been made to the exterior of the duct to make it possible to rest agasint various frame top plates. For example, whilst the TBS Source One v4 provides enough space for it not to be needed, the Nazgul5 XL4 frame will need this space.
 
-[Pic of the space i'm talking about here]
+
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/side_divot.JPG" height="300">
 
 Lastly, for ease of use you can print a bolt holder (see "accessories") that will sit between the flat part of the duct and the underside of the arm mount. By driving the M5 bolt though this while it is in its definitive position, the bolt threads will catch and make the bolt secure to the duct, all the while it will be able to be released easily from the arm mount nut.
 
-[exploded view of the bolt holder]
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/screw_catcher_pic1.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/screw_catcher_pic2.JPG" height="300">
 
 ## What you need to use
 
