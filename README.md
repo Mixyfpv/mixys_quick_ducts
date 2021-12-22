@@ -1,7 +1,8 @@
 # Mixy's Quick Ducts
 ## What this is
 Mixy's Quick Ducts are 5 inches ducts designed to fit most - if not all - 5 inch FPV drones in production today.
-![Alt text](pics_and_renders/duct5in_1.JPG?raw=true "Title")
+
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/ducts_full.JPG" height="600">
 
 These ducts were designed with one goal in mind, to be easy to use, and to be faster to put on and off your drone than currently available commercial solutions, as well as providing protection for bystanders when flying.
 
@@ -22,14 +23,14 @@ The arm mounts must be printed out of TPU.
 - Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
 - (OPTIONNAL) Put bolt holder in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
 - Push the duct around the prop through the gap between the duct arms and let one of the prop blades rest in the two "teeth". Make sure to angle these "teeth" toward the inde of the arm a it is where the arm will rest once fixed.
-[Pic of this portion of the mount]
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/arm_teeth.JPG" height="600">
 - Make sure the arms of the duct go around the front of the arm mount and the center top of the duct mount rest against the bottom of your arm mount.
 - Center the M5 bolt to the center hole of the arm mount.
 - Once the M5 bolt catches in the nut, make sure again that the teeth on the bottom side of the duct are going around the arm of the drone.
 - Secure to your heart content. If properly secured you should be able to lift your drone by the duct with minimal vibrations.
 
 ## How it works
-[Exploded view with TBS Source One v4]
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v1.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v2.JPG" height="300">
 
 The best way to fix something like these ducts to your standard frame was to use the same nut and bolt size (M5) as 5 inches props we are used to.
 Everyone is sure to have on hand the prop tool anywhere they fly, so this design fixation is centered aroud this idea.
@@ -56,9 +57,11 @@ Lastly, for ease of use you can print a bolt holder (see "accessories") that wil
 [exploded view of the bolt holder]
 
 ## What you need to use
-- **1XM5 nut**
 
-- **1XM5 bolt ~10mm**
+|Type|Dimension|Quantity|
+|----|----|----|
+|Hexagonal nut|M5 (4mm thick)|1|
+|Hexagonal bolt|M5x10mm|1|
 
 - (OPTIONNAL) print the bolt holder and make sure it fits in the inside face of the duct mount.
 
