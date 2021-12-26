@@ -19,9 +19,9 @@ The arm mounts must be printed out of TPU.
 
 ## Some pics and renders
 
-<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_1.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_2.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_3.JPG" height="300">
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_1.JPG" height="280"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_2.JPG" height="280"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/duct5in_3.JPG" height="280">
 
-<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v3.JPG" height="300">
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v3.JPG" height="280">
 
 
 
