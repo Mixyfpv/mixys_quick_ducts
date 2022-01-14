@@ -26,7 +26,7 @@ The arm mounts must be printed out of TPU.
 
 
 ## How to install
-[Installation video]
+Here's a video describing the installation process : https://youtu.be/RlNhgd1YAD4
 
 - Fix arm mounts on your frame of choice. Like any arm mounts use your M3 screws to go thought the TPU mount and secure it flush to the arm underneath the motor. REMEMBER TO PUT THE M5 NUT in its location before securing the arm mount or you will have to do it all over again. (See "How it works" section).
 - (OPTIONNAL) Put the screw catcher in the hole on the inside face of the duct, and thread the bolt through it to hold it in place. Do not go to far or you won't fit the duct aroud the arm mount. (See "How it works" section).
