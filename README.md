@@ -95,6 +95,9 @@ Other dimensions will be added in the near future. And modify it however you wan
 
 Plus we should be able to add and swap parts on a drone in seconds instead of minutes. That is the final goal we want for this community.... The current record of putting the ducts on a drone is around 10 seconds per prop. Let's be even faster.
 
+## Links
+Thingiverse : https://www.thingiverse.com/thing:5200598
+
 ## License
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" height="50"> 
 
